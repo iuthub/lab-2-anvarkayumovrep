@@ -1,0 +1,18 @@
+body{
+	background-color: #25283D;
+	font-family: Roboto Slab;
+	color: #EFD9CE;
+	padding: 10px 100px;
+}
+#header{
+	color: #07BEB8;
+}
+#def{
+	color: #98DFEA;
+}
+a{
+	color: #8F3985;
+}
+#img{
+	max-height: 200px;
+}
